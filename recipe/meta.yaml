@@ -31,6 +31,7 @@ requirements:
     - scipy
     - packaging
     - pyyaml
+    - requests # remove when print info test is fixed
     - matplotlib-base
     - diffpy.structure
     - diffpy.utils
