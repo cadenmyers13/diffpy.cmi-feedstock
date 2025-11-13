@@ -52,7 +52,7 @@ test:
 
 about:
   home: https://github.com/diffpy.cmi/diffpy.cmi/
-  summary: Complex modeling infrastructure: a modular framework for multi-modal modeling of scientific data.
+  summary: "Complex modeling infrastructure: a modular framework for multi-modal modeling of scientific data."
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE.rst
