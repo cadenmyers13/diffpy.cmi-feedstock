@@ -46,6 +46,7 @@ test:
     - python {{ python_min }}
     - pip
     - pytest
+    - pytest-mock
 
   source_files:
     - tests
